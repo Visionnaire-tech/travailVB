@@ -1,0 +1,17 @@
+c:\users\hp\documents\visual studio 2012\Projects\TP VB FINAL\TP VB FINAL\bin\Debug\TP VB FINAL.exe.config
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\bin\Debug\TP VB FINAL.exe.config
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\bin\Debug\TP VB FINAL.exe
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\bin\Debug\TP VB FINAL.pdb
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\bin\Debug\TP VB FINAL.xml
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.calcul_et_convertisation.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Calcul_Simple.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Calculatrice.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Form1.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Form2.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Form3.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Resources.resources
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP VB FINAL.vbproj.GenerateResource.Cache
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP VB FINAL.exe
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP VB FINAL.xml
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP VB FINAL.pdb
+C:\Users\IR VISIONNAIRE\Documents\Visual Studio 2012\TP VB FINAL\TP VB FINAL\TP VB FINAL\obj\Debug\TP_VB_FINAL.Form4.resources
